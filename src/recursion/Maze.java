@@ -25,7 +25,7 @@ public class Maze {
 //        a[5][3]=1;
 //        a[6][5]=1;
 //        master在此
-//        哈哈
+//        哈哈哈~
     }
 
     public boolean go(int m,int n){
